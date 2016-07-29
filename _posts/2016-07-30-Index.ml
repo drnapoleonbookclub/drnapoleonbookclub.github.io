@@ -8,7 +8,7 @@ title: About
   Unofficial book club for discussion of Dr Anthony Napoleon's books, white papers, and commentary.
 </p>
 
-To view all discussions, please visit the site <a href="/archive">index</a>.
+To view all discussions, please visit the [site index](/archive)
 
 ## Books
 
@@ -23,3 +23,4 @@ To view all discussions, please visit the site <a href="/archive">index</a>.
 * Trans Jenner
 
 For more information and to purchase these titles visit [Dr Napoleon Books](http://www.drnapoleonbooks.com)
+
