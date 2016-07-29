@@ -2,6 +2,7 @@
 layout: post
 comments: False
 title: About
+---
 
 <p class="message">
   Unofficial book club for discussion of Dr Anthony Napoleon's books, white papers, and commentary.
