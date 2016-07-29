@@ -1,6 +1,5 @@
 ---
 layout: post
-comments: False
 title: About
 ---
 
