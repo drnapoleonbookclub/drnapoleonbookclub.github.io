@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-  Unofficial book club for discussion of books, white papers, and commentary by Dr Anthony Napoleon PhD of Napoleon Legal Consulting.
+  Unofficial book club for discussion of Dr Anthony Napoleon's books, white papers, and commentary.
 </p>
 
 ## Books
