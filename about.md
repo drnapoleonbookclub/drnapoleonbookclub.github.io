@@ -16,15 +16,11 @@ There are currently two themes built on Poole:
 
 Learn more and contribute on [GitHub](https://github.com/poole).
 
-## Setup
+## Books
 
-Some fun facts about the setup of this project include:
+* Awakening Beauty: An Illustrated Look at Mankind's Love and Hatred of Beauty
+* A Look Inside the Playbook - How Marxists Plan to Destroy America
+* The Progressive Virus: Why You Cannot Permit It to Go Forward
+* Shadow Men: An Encyclopedia of Mind Control
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+For more information and to purchase these titles visit [Dr Napoleon Books](http://www.drnapoleonbooks.com)
