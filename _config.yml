@@ -6,7 +6,7 @@ title:               Dr Napoleon Book Club
 tagline:             for readers of Shadow Men and other titles
 url:                 http://www.drnapoleonbooks.com
 paginate:            1
-baseurl:             ""
+baseurl:             "https://drnapoleonbookclub.github.io/"
 
 # Assets
 #
