@@ -4,9 +4,9 @@ permalink:           pretty
 # Setup
 title:               Dr Napoleon Book Club
 tagline:             for readers of Shadow Men and other titles
-url:                 http://www.drnapoleonbooks.com
+url:                 https://www.drnapoleonbooks.com
 paginate:            1
-baseurl:             "https://drnapoleonbookclub.github.io/"
+baseurl:             ""
 
 # Assets
 #
